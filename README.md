@@ -9,7 +9,7 @@ This project is a part of the learning milestone of a Udemy course delivered by 
 ### Project Status: [Completed]
 
 ### Project Objective
-We have been hired to analyse the sales reports from an audiobook business, and visualize the business findings using an interactive dashboard.
+We have been hired to analyze the sales report from an audiobook business, and visualize the business findings using an interactive dashboard.
 The following information has to be included in the dashboard.
 - Number of audiobook reviews and average rating
 - Number of audiobook reviews by audiobook
