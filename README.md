@@ -20,12 +20,12 @@ The following information has to be included in the dashboard.
 
 ### Instruction
 Two datasets are given, they are to be blended / joined to provide the neccesary information.
-1. [Audiobook Sales](https://github.com/zhenyu92/Tableau_Audiobook_Sales_Dashboard/blob/master/Audiobook-sales.xlsx)
+1. [Audiobook Sales](https://github.com/zhenyu92/Tableau_Audiobook_Sales_Dashboard/blob/master/Audiobook-sales.xlsx), which contains:
 - Date of purchase
 - Audiobook name
 - Transaction ID
 
-2. [Audiobook Review](https://github.com/zhenyu92/Tableau_Audiobook_Sales_Dashboard/blob/master/Audiobook-reviews.xlsx)
+2. [Audiobook Review](https://github.com/zhenyu92/Tableau_Audiobook_Sales_Dashboard/blob/master/Audiobook-reviews.xlsx), which contains:
 - Audiobook name
 - Review date
 - Rating
